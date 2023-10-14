@@ -1,8 +1,8 @@
 # Olá, prazer Abner Freitas!
 
-<div>
-📚 Formado em Ciência da Computação<br>
-🎯 Front-end Developer<br>
+<div style="display: inline_block">
+📚 Formado em Ciência da Computação
+🎯 Front-end Developer
 💼 Atualmente Web Designer Jr
 </div>
 &nbsp;
