@@ -5,13 +5,6 @@
 🎯 Front-end Developer<br>
 💼 Atualmente Web Designer Jr
 </div>
-&nbsp;
-
-<div>
-<a href="https://github.com/abnerfrs">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abnerfrs&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerfrs&hide_progress=true"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Abner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,6 +14,14 @@
   <img align="center" alt="Abner-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Abner-mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
  </div>
+&nbsp;
+
+<div>
+<a href="https://github.com/abnerfrs">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abnerfrs&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerfrs&layout=compact"/>
+</div>
+
 &nbsp;
 
 <div>
