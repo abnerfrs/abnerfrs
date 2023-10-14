@@ -8,7 +8,7 @@
 &nbsp;
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abnerfrs&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerfrs&layout=donut-vertical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerfrs&hide_progress=true"/>
 
 
 <div style="display: inline_block"><br>
