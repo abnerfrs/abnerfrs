@@ -3,7 +3,7 @@
 <div>
 📚 Formado em Ciência da Computação<br>
 🎯 Front-end Developer<br>
-💼 Atualmente Web Designer Jr
+💼 Open to Work
 </div>
 
 <div style="display: inline_block"><br>
