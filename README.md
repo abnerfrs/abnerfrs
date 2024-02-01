@@ -3,7 +3,7 @@
 <div>
 📚 Formado em Ciência da Computação<br>
 🎯 Front-end Developer<br>
-💼 Open to Work
+💼 ACSoftware
 </div>
 
 <div style="display: inline_block"><br>
