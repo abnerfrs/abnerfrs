@@ -1,7 +1,7 @@
 # Olá, prazer Abner Freitas!
 
 <div>
-📚 Formado em Ciência da Computação && Pós-graduando em CyberSecurity <img align="center" alt="Abner-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br>
+📚 Formado em Ciência da Computação && Pós-graduando em CyberSecurity <img align="center" alt="Abner-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br>
 🎯 Fullstack Developer<br>
 💼 ACS Pro
 </div>
