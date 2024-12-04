@@ -1,9 +1,9 @@
 # Olá, prazer Abner Freitas!
 
 <div>
-📚 Formado em Ciência da Computação<br>
-🎯 Front-end Developer<br>
-💼 ACSoftware
+📚 Formado em Ciência da Computação && Pós-graduando em CyberSecurity<br>
+🎯 Fullstack Developer<br>
+💼 ACS Pro
 </div>
 
 <div style="display: inline_block"><br>
@@ -13,6 +13,7 @@
   <img align="center" alt="Abner-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Abner-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Abner-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Abner-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/c-original.svg" />
   <img align="center" alt="Abner-PHP" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php//php-plain.svg">
   <img align="center" alt="Abner-mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
  </div>
