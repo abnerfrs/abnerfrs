@@ -30,6 +30,6 @@
 &nbsp;
 
 <div>
-   <a href="https://www.linkedin.com/in/abner-freitas-b1281a1a1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BfVY3EAwdRHKh6LnPKBUqvg%3D%3D" target="_blank" class="ticks"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/abnerfrs" target="_blank" class="ticks"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:freitasabner12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
